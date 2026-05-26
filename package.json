@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "dev": "cd SafeBite_Tracker && npm run dev",
+    "build": "cd SafeBite_Tracker && npm run build",
+    "preview": "cd SafeBite_Tracker && npm run preview"
+  },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
     "framer-motion": "^12.39.0",
